@@ -1,3 +1,11 @@
+[![build](https://github.com/ltpitt/java-spring5-webapp/workflows/build/badge.svg)](https://github.com/ltpitt/java-spring5-webapp/actions?query=workflow%3Abuild)
+[![CodeQL](https://github.com/ltpitt/java-spring5-webapp/workflows/CodeQL/badge.svg)](https://github.com/ltpitt/java-spring5-webapp/actions?query=workflow%3ACodeQL)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-spring5-webapp)](https://github.com/ltpitt/java-spring5-webapp/issues)
+[![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring5-webapp)](https://github.com/ltpitt/java-spring5-webapp/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring5-webapp?foo=bar)](https://github.com/ltpitt/java-spring5-webapp/commits)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ltpitt/java-spring5-webapp/blob/master/LICENSE)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+
 # Java Spring 5 - WebApp
 > A simple Java Sprint 5 WebApp
 
